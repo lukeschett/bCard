@@ -24,12 +24,12 @@ img {
 }
 
 /* i Links */
-i:link {
+a:link {
 	color: #ecf0f1;
 }
-i:visited {
+a:visited {
 	color: #ecf0f1;
 }
-i:hover {
+a:hover {
 	color: #2980b9;
 }
